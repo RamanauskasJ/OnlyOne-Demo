@@ -31,3 +31,4 @@ The following resources and libraries that were used in the development of this 
 - [Phaser3 Framework](https://phaser.io/): JavaScript Game development framework that served as the foundation for this demo.
 - [Tiled editor](https://mapeditor.org): Tiled is a 2D level editor that helped develop the levels of the game.
 - [Itch.io ](https://itch.io/): Various game assets that were used in the development of OnlyOne.
+
