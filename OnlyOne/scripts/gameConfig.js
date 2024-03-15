@@ -46,11 +46,11 @@ class TitleScene extends Phaser.Scene {
             frames: this.anims.generateFrameNames('bgGif', {
                 prefix: 'bg-',
                 suffix: '.png',
-                start: 1,
-                end: 19,
+                start: 0,
+                end: 18,
                 zeroPad: 1
             }),
-            frameRate: 9,
+            frameRate: 8,
             repeat: -1
         });
 
