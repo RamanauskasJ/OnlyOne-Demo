@@ -50,7 +50,7 @@ class TitleScene extends Phaser.Scene {
                 end: 18,
                 zeroPad: 1
             }),
-            frameRate: 8,
+            frameRate: 9,
             repeat: -1
         });
 
